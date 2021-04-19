@@ -1,6 +1,6 @@
 # Roster
 C++ application reading existing student data and generating reports. 
-Demonstrates use of:
+##Demonstrates use of:
 * enumerations
 * accessor
 * mutators
